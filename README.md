@@ -50,7 +50,7 @@ EDA involved examining variable distributions and their relationships with custo
     ![Churn Rate by gender](https://github.com/ZahraKheyrandish/Customer-Churn-Prediction-BI/blob/main/plots/download%20(33).png?raw=true)
 
 * **Correlation Matrix of Features:** This heatmap provides a quick overview of how features relate to each other and to the Churn target.
-    ![Correlation Matrix of Features](https://github.P_USERNAME/YOUR_REPOSITORY/blob/main/plots/plt.jpg?raw=true)
+    ![Correlation Matrix of Features](https://github.com/ZahraKheyrandish/Customer-Churn-Prediction-BI/blob/main/plots/PLT.png?raw=true)
 For a complete overview of all generated visualizations and their detailed analysis, please refer to the [plots folder](./plots).
 [Link to Google Colab Notebook with full EDA (if available)]
 
